@@ -168,7 +168,7 @@ Este tipo de procesos es fundamental en cualquier etapa de análisis de datos, y
 ## Contacto
 Para consultas, puedes contactarme a través de:
 
-[Mail](mailto:maria.ibanezw@gmail.com)
+[Mail](mailto:dbaservices.martinezcesar@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/mariadelmaribanezw/) 
+[LinkedIn](https://www.linkedin.com/in/comartinezsv/) 
 
