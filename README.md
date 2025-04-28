@@ -63,7 +63,7 @@ Para preservar la integridad de los datos originales, se duplicó la tabla base 
 
 ---
 
-## Paso 1: Modificación de la estructura de la tabla]
+## Paso 1: Modificación de la estructura de la tabla
 - #### Cambio de los nombres de las columnas
 Se estandarizó el formato de los nombres de las columnas para asegurar uniformidad y facilitar su interpretación y uso en futuras consultas.
 
